@@ -1,4 +1,7 @@
-Trabajo Practico 1
+#Trabajo Practico 1
+
 Alvarez Esteban
+
 tebalv/trabajo-practico-uno
-operacion matematica con un test y workflows
+
+#operacion matematica con un test y workflows
