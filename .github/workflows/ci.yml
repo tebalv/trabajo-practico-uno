@@ -2,10 +2,10 @@ name: CI with node
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
-  ci_to_master:
+  ci_to_main:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
